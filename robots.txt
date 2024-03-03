@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://asrori.smpgunungjati2.sch.id/sitemap.xml
